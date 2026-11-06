@@ -1,0 +1,390 @@
+{
+  "roles": [
+    {
+      "role": "Data Analyst",
+      "industry": "Information Technology and Consulting",
+      "why_relevant": "A good fit for students who enjoy finding patterns, working with numbers and communicating evidence-based insights.",
+      "keywords": [
+        "data",
+        "analysis",
+        "statistics",
+        "business",
+        "excel",
+        "sql"
+      ],
+      "required_skills": [
+        "Excel",
+        "SQL",
+        "Data visualization",
+        "Statistics",
+        "Communication"
+      ],
+      "responsibilities": [
+        "Clean and organize datasets",
+        "Analyze trends and metrics",
+        "Build reports and dashboards",
+        "Explain insights to stakeholders"
+      ],
+      "qualification": "A degree in computer science, statistics, mathematics, commerce, engineering or a related field can be relevant; requirements vary by employer.",
+      "certifications": [
+        "Google Data Analytics Professional Certificate",
+        "Microsoft Power BI learning paths"
+      ],
+      "project_ideas": [
+        "Analyze a public dataset and build an interactive dashboard."
+      ]
+    },
+    {
+      "role": "AI / Machine Learning Engineer",
+      "industry": "Information Technology",
+      "why_relevant": "Suitable for learners interested in programming, mathematics, automation and building intelligent applications.",
+      "keywords": [
+        "artificial intelligence",
+        "machine learning",
+        "python",
+        "automation",
+        "models"
+      ],
+      "required_skills": [
+        "Python",
+        "Statistics",
+        "Linear algebra basics",
+        "Machine learning",
+        "Git"
+      ],
+      "responsibilities": [
+        "Prepare data",
+        "Train and evaluate models",
+        "Build model-powered features",
+        "Monitor model performance"
+      ],
+      "qualification": "Computer science, engineering, mathematics, statistics or a related degree is common; demonstrable projects are important.",
+      "certifications": [
+        "Microsoft Azure AI learning paths",
+        "DeepLearning.AI courses"
+      ],
+      "project_ideas": [
+        "Build and evaluate a classification model with a documented dataset."
+      ]
+    },
+    {
+      "role": "Software Developer",
+      "industry": "Information Technology",
+      "why_relevant": "A broad path for students who enjoy logical problem solving and building applications.",
+      "keywords": [
+        "software",
+        "programming",
+        "computer science",
+        "python",
+        "web",
+        "development"
+      ],
+      "required_skills": [
+        "Programming",
+        "Data structures",
+        "Git",
+        "Debugging",
+        "Problem solving"
+      ],
+      "responsibilities": [
+        "Design and develop software",
+        "Write and test code",
+        "Fix defects",
+        "Collaborate through version control"
+      ],
+      "qualification": "A computer science, IT or related degree is common, although portfolios and practical ability can also matter.",
+      "certifications": [
+        "GitHub Skills learning paths",
+        "Microsoft Learn developer paths"
+      ],
+      "project_ideas": [
+        "Create a full-stack application with authentication and tests."
+      ]
+    },
+    {
+      "role": "Financial Analyst",
+      "industry": "Banking and Financial Services",
+      "why_relevant": "Relevant to commerce students who enjoy accounting, financial statements, markets, budgeting and quantitative analysis.",
+      "keywords": [
+        "finance",
+        "financial",
+        "accounting",
+        "commerce",
+        "banking",
+        "markets",
+        "budget"
+      ],
+      "required_skills": [
+        "Excel",
+        "Accounting",
+        "Financial statement analysis",
+        "Financial modeling",
+        "Communication"
+      ],
+      "responsibilities": [
+        "Review financial information",
+        "Prepare forecasts and budgets",
+        "Compare business performance",
+        "Present financial insights"
+      ],
+      "qualification": "B.Com, BBA, economics, finance or related degrees are relevant; some roles prefer postgraduate study.",
+      "certifications": [
+        "NPTEL finance courses",
+        "CFA Program (review eligibility, costs and commitment before enrolling)"
+      ],
+      "project_ideas": [
+        "Create a financial ratio and trend analysis of a publicly listed company using published reports."
+      ]
+    },
+    {
+      "role": "Accountant",
+      "industry": "Banking and Financial Services",
+      "why_relevant": "A practical route for commerce students interested in bookkeeping, taxation, compliance and accurate financial records.",
+      "keywords": [
+        "accounting",
+        "commerce",
+        "tax",
+        "bookkeeping",
+        "audit"
+      ],
+      "required_skills": [
+        "Accounting principles",
+        "Excel",
+        "Tax basics",
+        "Accounting software",
+        "Attention to detail"
+      ],
+      "responsibilities": [
+        "Maintain financial records",
+        "Reconcile accounts",
+        "Assist with tax and audit documentation",
+        "Prepare financial statements"
+      ],
+      "qualification": "B.Com or a related qualification is relevant; professional qualifications depend on the role and jurisdiction.",
+      "certifications": [
+        "NPTEL accounting and finance courses",
+        "Relevant Tally or accounting software training"
+      ],
+      "project_ideas": [
+        "Build a sample bookkeeping ledger and monthly financial statements for a mock small business."
+      ]
+    },
+    {
+      "role": "Automotive Design Engineer",
+      "industry": "Automotive and Mobility",
+      "why_relevant": "Fits mechanical engineering students interested in vehicle systems, CAD, product design and mobility technology.",
+      "keywords": [
+        "automotive",
+        "automobile",
+        "mechanical",
+        "vehicle",
+        "design",
+        "CAD",
+        "EV"
+      ],
+      "required_skills": [
+        "Engineering drawing",
+        "CAD",
+        "Mechanics",
+        "Materials science",
+        "Design fundamentals"
+      ],
+      "responsibilities": [
+        "Develop component concepts",
+        "Create CAD models and drawings",
+        "Review design constraints",
+        "Work with testing and manufacturing teams"
+      ],
+      "qualification": "A mechanical, automotive or related engineering degree is commonly relevant.",
+      "certifications": [
+        "Autodesk learning resources",
+        "NPTEL mechanical and automotive courses"
+      ],
+      "project_ideas": [
+        "Create a CAD model and design report for a simple vehicle component."
+      ]
+    },
+    {
+      "role": "EV Systems Engineer",
+      "industry": "Automotive and Mobility",
+      "why_relevant": "Relevant to engineering students interested in electric mobility, batteries, motors and vehicle systems.",
+      "keywords": [
+        "electric vehicle",
+        "EV",
+        "battery",
+        "automotive",
+        "motor",
+        "mechanical",
+        "electrical"
+      ],
+      "required_skills": [
+        "Electrical fundamentals",
+        "Battery basics",
+        "Electric machines",
+        "MATLAB or Python",
+        "System testing"
+      ],
+      "responsibilities": [
+        "Support EV subsystem design",
+        "Analyze battery or motor performance",
+        "Review system requirements",
+        "Assist with validation testing"
+      ],
+      "qualification": "Mechanical, electrical, electronics or automotive engineering backgrounds may be relevant depending on the specialization.",
+      "certifications": [
+        "NPTEL electric vehicle courses",
+        "Relevant MATLAB/Simulink learning resources"
+      ],
+      "project_ideas": [
+        "Prepare a basic EV range estimation model using clearly stated assumptions."
+      ]
+    },
+    {
+      "role": "Business Analyst",
+      "industry": "Consulting and Business Services",
+      "why_relevant": "Suitable for students who like understanding business problems, working with data and communicating recommendations.",
+      "keywords": [
+        "business",
+        "analytics",
+        "management",
+        "MBA",
+        "strategy",
+        "requirements"
+      ],
+      "required_skills": [
+        "Excel",
+        "SQL basics",
+        "Business communication",
+        "Requirements analysis",
+        "Data visualization"
+      ],
+      "responsibilities": [
+        "Gather business requirements",
+        "Analyze processes and data",
+        "Document findings",
+        "Coordinate with technical and business teams"
+      ],
+      "qualification": "Business, management, economics, engineering or related degrees can be relevant; role requirements vary.",
+      "certifications": [
+        "Google Data Analytics Professional Certificate",
+        "Microsoft Power BI learning paths"
+      ],
+      "project_ideas": [
+        "Analyze a business process and present a data-backed improvement proposal."
+      ]
+    },
+    {
+      "role": "Digital Marketing Analyst",
+      "industry": "Media and Business Services",
+      "why_relevant": "A fit for students interested in consumer behavior, content performance, campaigns and measurement.",
+      "keywords": [
+        "marketing",
+        "digital",
+        "analytics",
+        "consumer",
+        "media",
+        "communication"
+      ],
+      "required_skills": [
+        "Marketing fundamentals",
+        "Spreadsheet analysis",
+        "Web analytics",
+        "Content strategy",
+        "Communication"
+      ],
+      "responsibilities": [
+        "Track campaign metrics",
+        "Analyze audience behavior",
+        "Prepare performance reports",
+        "Recommend campaign improvements"
+      ],
+      "qualification": "Marketing, business, media, commerce or related backgrounds may be relevant.",
+      "certifications": [
+        "Google Skillshop",
+        "HubSpot Academy"
+      ],
+      "project_ideas": [
+        "Create a mock campaign measurement plan and analyze sample campaign data."
+      ]
+    }
+  ],
+  "learning_resources": [
+    {
+      "name": "NPTEL",
+      "url": "https://nptel.ac.in/",
+      "purpose": "University-level online courses across engineering, science, management and other subjects."
+    },
+    {
+      "name": "SWAYAM",
+      "url": "https://swayam.gov.in/",
+      "purpose": "India's national online learning platform; check each course's current enrollment and examination details."
+    },
+    {
+      "name": "Coursera",
+      "url": "https://www.coursera.org/",
+      "purpose": "Professional certificates and courses; fees, audit options and availability vary by course and region."
+    },
+    {
+      "name": "edX",
+      "url": "https://www.edx.org/",
+      "purpose": "University and professional courses; verify current course access and certificate costs."
+    },
+    {
+      "name": "Microsoft Learn",
+      "url": "https://learn.microsoft.com/training/",
+      "purpose": "Free learning paths for Microsoft technologies, data, cloud and AI."
+    },
+    {
+      "name": "Google Career Certificates",
+      "url": "https://grow.google/certificates/",
+      "purpose": "Career-focused certificate programs; check regional availability and current pricing."
+    },
+    {
+      "name": "Google Skillshop",
+      "url": "https://skillshop.withgoogle.com/",
+      "purpose": "Training and certifications for Google products and digital marketing."
+    },
+    {
+      "name": "HubSpot Academy",
+      "url": "https://academy.hubspot.com/",
+      "purpose": "Free online training in marketing, sales and customer service."
+    },
+    {
+      "name": "GitHub Skills",
+      "url": "https://skills.github.com/",
+      "purpose": "Hands-on learning activities for GitHub and developer workflows."
+    },
+    {
+      "name": "DeepLearning.AI",
+      "url": "https://www.deeplearning.ai/courses/",
+      "purpose": "Courses in AI, machine learning and generative AI; check current enrollment details."
+    },
+    {
+      "name": "Autodesk Education",
+      "url": "https://www.autodesk.com/education/edu-software/overview",
+      "purpose": "Education resources and eligible student access to design software; eligibility applies."
+    }
+  ],
+  "job_search_resources": [
+    {
+      "name": "LinkedIn Jobs",
+      "url": "https://www.linkedin.com/jobs/",
+      "purpose": "Search internships, entry-level roles and professional opportunities."
+    },
+    {
+      "name": "Naukri",
+      "url": "https://www.naukri.com/",
+      "purpose": "Search jobs and create a profile for recruiters in India."
+    },
+    {
+      "name": "Indeed India",
+      "url": "https://in.indeed.com/",
+      "purpose": "Search jobs by role, skills and location."
+    },
+    {
+      "name": "National Career Service (India)",
+      "url": "https://www.ncs.gov.in/",
+      "purpose": "Government career and employment services, including job search and career information."
+    }
+  ]
+}
